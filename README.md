@@ -1,5 +1,4 @@
-- What is my major? Chemistry or EE, this is a question.
-- But programming is always my love. 
+- Chemistry or EE, this is a question. But programming is always my love. 
 
 
 <!---
