@@ -1,4 +1,5 @@
-- 👋 Hi, I’m ccpcc, majored in chemistry, interested in data science.
+- What is my major? Chemistry or EE, this is a question.
+- But programming is always my love. 
 
 
 <!---
